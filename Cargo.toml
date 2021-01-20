@@ -1,0 +1,12 @@
+[package]
+name = "tcpdrunk"
+version = "0.1.0"
+authors = ["blakehawkins"]
+edition = "2018"
+
+[dependencies]
+stdinix = "0.1"
+nom = "6.0"
+oops = "0.2"
+colored = "2"
+structopt = "0.3"
